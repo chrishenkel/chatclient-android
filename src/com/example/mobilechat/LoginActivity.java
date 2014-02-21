@@ -42,7 +42,7 @@ public class LoginActivity extends Activity implements OnClickListener {
 
 	public static final String EXTRA_MESSAGE = "message";
 	public static final String PROPERTY_REG_ID = "registration_id";
-	private static final String PROPERTY_APP_VERSION = "1.1.0";
+	private static final String PROPERTY_APP_VERSION = "1.1.1";
 	private static final int PLAY_SERVICES_RESOLUTION_REQUEST = 9000;
 	
 	private EditText username;
