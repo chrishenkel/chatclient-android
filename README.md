@@ -1,5 +1,4 @@
-# Android Based Chat Client
-==================================================================
+# Android Based Chat Client 
 
 ##requirements to run application:
 1. google-play-services_lib is a required android library project to run this application
