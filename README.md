@@ -1,6 +1,6 @@
 # Android Based Chat Client 
 
-##requirements to run application:
+##requirements to run application
 1. google-play-services_lib is a required android library project to run this application
 2. Arm Translation Install v1.1
 3. Google Apps for Android 4.2
