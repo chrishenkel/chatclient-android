@@ -1,5 +1,8 @@
 # Android Based Chat Client 
 
+## Description
+An android based chat client integrated with the chatserver-playframework project. 
+
 ##requirements to run application
 1. google-play-services_lib is a required android library project to run this application
 2. Arm Translation Install v1.1
